@@ -1,2 +1,0 @@
-# Practice
-My university programming.
